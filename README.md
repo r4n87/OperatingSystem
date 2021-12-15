@@ -1,4 +1,7 @@
 # OperatingSystem 쉽게 배우는 운영체제
+- [Chapter 01. Introduction to Operating System](#chapter-01-introduction-to-operating-system)
+- [Chapter 02. Computer Structure](#chapter-02-computer-structure)
+
 ## Chapter 01. Introduction to Operating System
 ### 연습문제
 01. 사용자에게 편리한 인터페이스 환경을 제공하고 컴퓨터 시스템 자원을 효율적으로 관리하는 소프트웨어는 무엇인가? <br/>
