@@ -3,7 +3,7 @@
 - [Chapter 02. Computer Structure](#chapter-02-computer-structure)
 - [Chapter 03. Process and Thread](#chapter-03-process-and-thread)
 - [Chapter 04. CPU Scheduling](#chapter-04-cpu-scheduling)
-- [Chapter 05. P
+- [Chapter 05. Process Synchronization](#chapter-05-process-synchronization)
 
 ## Chapter 01. Introduction to Operating System
 ### 연습문제
